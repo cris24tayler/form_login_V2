@@ -3,7 +3,7 @@
 * [introduca](#introducao)
 * [funcionalidades](#funcionalidades)
 * [fontes_utilizadas](#fontes-utilizadas)
-* [autores]
+* [autores](#autores)
 
 
 # descricao
@@ -24,4 +24,4 @@
 
 # autores
 * cristian
-* feito com aconpanhamento do professor [leonardo]()
+* feito com aconpanhamento do professor [leonardo](https://github.com/leonardorochamarista)
