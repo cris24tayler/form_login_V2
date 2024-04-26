@@ -3,7 +3,6 @@
 * [introduca](#introducao)
 * [funcionalidades](#funcionalidades)
 * [fontes_utilizadas](#fontes-utilizadas)
-* [descricao_dos_codigos]
 * [autores]
 
 
@@ -12,10 +11,17 @@
 
 # introducao
 * para usar basta colocar o email e senha e se caso tiver esquecido a senha clique em ESQUECI MINHA SENHA, depois de digitar o email e a senha clique em entrar.
+![imagem_do_projeto](img/imagen do projeto.png)
 
 # funcionalidades
 * entrar em sua conta em um app ou site
 
 # fontes utilizadas
-* 
+* chat gpt
+* bootstrap 5
+* google
+* projetos dos outros como inspiracao
 
+# autores
+* cristian
+* feito com aconpanhamento do professor [leonardo]()
