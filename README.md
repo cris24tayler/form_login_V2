@@ -11,7 +11,7 @@
 
 # introducao
 * para usar basta colocar o email e senha e se caso tiver esquecido a senha clique em ESQUECI MINHA SENHA, depois de digitar o email e a senha clique em entrar.
-![imagem_do_projeto](img/imagen do projeto.png)
+![imagem_do_projeto](projeto.png)
 
 # funcionalidades
 * entrar em sua conta em um app ou site
